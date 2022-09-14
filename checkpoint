@@ -1,0 +1,2 @@
+model_checkpoint_path: "CVQNN_2_qumode_MNIST_Weights"
+all_model_checkpoint_paths: "CVQNN_2_qumode_MNIST_Weights"
